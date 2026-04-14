@@ -21,7 +21,7 @@ Built as part of a systems engineering learning journey — Stage 1 of 4.
 ## How to Use
 
 Clone the repository:
-git clone https://github.com/YOUR_USERNAME/serverwatch.git
+git clone https://github.com/natiii05/serverwatch.git
 cd serverwatch
 chmod +x serverwatch.sh
 
